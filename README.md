@@ -1,2 +1,2 @@
 Xinchen Zhang's User Page 
-C++
+My favorite programming language: C++
