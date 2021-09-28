@@ -15,9 +15,9 @@ This is my [Home-page](https://github.com/xinchenzhang/CSE110)
 
 [Readme](README.md)
 
-[Move to the top](https://github.com/XinchenZhang/CSE110/new/VSCode-UI#xinchen-zhang)
+[Move to the top](https://xinchenzhang.github.io/CSE110/#cse-110)
 
-[move to end](https://github.com/XinchenZhang/CSE110/new/VSCode-UI#end)
+[move to end](https://xinchenzhang.github.io/CSE110/#end)
 
 - unordered first 
 - unordered second 
