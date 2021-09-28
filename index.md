@@ -5,7 +5,12 @@
 *welcome to my page*
 
 ![welcome](welcome-poster-spectrum-brush-strokes-260nw-1146069941.jpg)
+
+
 >this is a quote
+
+
+
 ```
 cout << "hello world!" << endl;
 
