@@ -4,7 +4,7 @@
 **welcome to my page** 
 *welcome to my page*
 
-![welcome](https://github.com/XinchenZhang/CSE110/blob/VSCode-UI/welcome-poster-spectrum-brush-strokes-260nw-1146069941.jpg)
+![welcome](https://cdn1.vectorstock.com/i/1000x1000/92/25/welcome-paper-poster-with-colorful-brush-strokes-vector-21849225.jpg)
 >this is a quote
 ```
 cout << "hello world!" << endl;
