@@ -1,0 +1,33 @@
+# Xinchen Zhang
+## cse 110
+#### FA21
+**welcome to my page** 
+*welcome to my page*
+
+![welcome](https://github.com/XinchenZhang/CSE110/blob/VSCode-UI/welcome-poster-spectrum-brush-strokes-260nw-1146069941.jpg)
+>this is a quote
+```
+cout << "hello world!" << endl;
+
+```
+This is my [Home-page](https://github.com/xinchenzhang/CSE110)
+
+[Readme](README.md)
+
+[Move to the top](https://github.com/XinchenZhang/CSE110/new/VSCode-UI#xinchen-zhang)
+
+[move to end](https://github.com/XinchenZhang/CSE110/new/VSCode-UI#end)
+
+- unordered first 
+- unordered second 
+- unordered thirdl 
+
+1. ordered first
+2. ordered second
+3. ordered third 
+
+- [ ] tesk list 1
+- [ ] tesk list 2
+- [x] tesk list 3
+
+###### end
